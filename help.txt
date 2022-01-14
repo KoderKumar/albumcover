@@ -1,0 +1,20 @@
+paec(Parental Advisory Explicit Content) size = 100x73
+Main Poster Image = 1134x966 or 640x360 or 422x360 or 422x360
+Main Poster Image Resolution = 500
+
+To change frame save every nth time change second if 200 in while loop
+
+To change blur value change BoxBlur Property in blur.py
+
+To edit the image placement edit area variable in blend.py
+
+For Frame number in video run frame-counter.py
+
+Steps:-
+1) Run frame-counter.py for the frame count
+
+2) Run frame-Ex.py for the frame extraction
+
+3) Run blur.py for the border blur
+
+4) Run blend.py for the paec tag 
